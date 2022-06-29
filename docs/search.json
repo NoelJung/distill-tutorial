@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-06-28T14:42:20-04:00"
+      "contents": "\nAbout Me\nMy name is Noel Jung. I currently attend Queens\nUniversity in Kingston, Ontario. I enjoy swimming, playing video games\nand fishing.\nAbout the Project\nCool Games\nI want to be able to create a website abotu the progression of the\nscoreboards of some of my favourite video games.\nGoals\nFind a suitable game I want to cover\nMight be hard to find a game that has a large number of players with\na scoreboard\n\nFind a reliable scoreboard for the game\n“This is data science”\n~Preceptor\nKane’s Free High School\nData Science Bootcamp\n\n\n\n",
+      "last_modified": "2022-06-28T23:14:22-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project!\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-06-28T14:42:23-04:00"
+      "last_modified": "2022-06-28T23:14:25-04:00"
     }
   ],
   "collections": []

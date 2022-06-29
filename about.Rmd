@@ -8,3 +8,23 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+
+My name is **Noel Jung**. I currently attend Queens University in Kingston, Ontario. I enjoy swimming, playing video games and fishing.
+
+## About the Project
+
+*Cool Games*
+
+I want to be able to create a website abotu the progression of the scoreboards of some of my favourite video games.
+
+### Goals
+
+* Find a suitable game I want to cover
+  + Might be hard to find a game that has a large number of players with a scoreboard
+* Find a reliable scoreboard for the game
+
+"This is data science"  
+~Preceptor
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)
